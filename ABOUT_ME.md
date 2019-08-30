@@ -1,4 +1,4 @@
-# 경력기술서
+# 자기소개서
 <img src="./doc/img/profile.png" width="350">
 
 * 이름 : 김태성
