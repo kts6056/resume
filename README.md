@@ -77,8 +77,10 @@
 - Kotlin
 - Rx2Java
 - MVVM Pattern
+- Retrofit2
 - AndroidFastNetwork
 - Dagger2
+- Koin
 - 기타 : glide, picasso, FCM, atto, Room...
 
 ## iOS
