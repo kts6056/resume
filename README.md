@@ -13,9 +13,12 @@
 
 ## 회사경력
 
+* [Flitto](https://www.flitto.com)
+    - Android Developer
+    - 기간 : 2020.02 ~ 재직중
 * [유비스마트](http://ubsmart.co.kr/)
     - Android engineer, iOS engineer, Backend engineer
-    - 기간 : 2018.05 ~ 재직중
+    - 기간 : 2018.05 ~ 2020.01
 * [디엔디전자](http://dndele.com)
     - Firmware engineer
     - 기간 : 2017.09 ~ 2018.05
@@ -123,6 +126,15 @@ RESTful에서 필요한 쿼리문을 작성할 수 있습니다.
 - Docker
 
 ## 프로젝트 이력
+
+<img src="./doc/img/flitto.png" width="100">
+
+### Flitto
+
+- 회사 : [Flitto](https://www.flitto.com)
+- 소개 : 집단지성을 통한 번역 및 교정
+- 기여 : [Flitto Android](https://play.google.com/store/apps/details?id=com.flitto.app)
+- 기간 : 2020-02 ~ 진행중
 
 <img src="./doc/img/ucops.png" width="100">
 
